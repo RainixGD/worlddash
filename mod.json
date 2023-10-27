@@ -1,0 +1,19 @@
+{
+	"geode": "1.3.5",
+	"version": "v1.0.0",
+	"id": "rainixgd.worlddash",
+	"name": "worlddash",
+	"developer": "rainixgd",
+	"description": "abobus",
+	"resources": {
+		"spritesheets": {
+			"worlddash": [
+				"assets/level.png",
+				"assets/susCoin.png",
+				"assets/graphixBtn.png",
+				"assets/rainixBtn.png"
+			]
+		},
+		"files": [ "assets/*.mp3", "assets/*.plist", "assets/bg.png", "assets/map.png" ]
+	}
+}
